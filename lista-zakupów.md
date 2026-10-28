@@ -1,42 +1,41 @@
 # I. Część imprezowa (przekąski, napoje i organizacja)
 
 **Alkohole i dodatki barmańskie**
-1. Prosecco / Szampan – 4 butelki
-2. Wódka – 2 butelki
-3. Gin – 1 butelka
-4. Rum – 1 butelka
-5. Wino białe – 3 butelki
-6. Wino czerwone – 2 butelki
+1. Prosecco / Szampan – 10 butelek
+2. Wódka – 20 butelek
+3. Gin – 10 butelek
+4. Rum – 10 butelek
+5. Wino białe – 30 butelek
+6. Wino czerwone – 20 butelek
 7. Piwo – 24 butelki
-8. Piwo bezalkoholowe – 8 butelek
-9. Syrop barmański – 1 butelka
-10. Lód w kostkach – 3 worki
+8. Syrop barmański – 10 butelka
+9. Lód w kostkach – 20 worki
 
 **Napoje bezalkoholowe i świeże dodatki**
-1. Woda niegazowana – 6 butelek
-2. Woda gazowana – 6 butelek
-3. Coca-Cola / Pepsi – 4 butelki
-4. Sprite / 7Up – 2 butelki
-5. Tonik – 4 butelki
-6. Sok pomarańczowy – 3 kartony
-7. Sok jabłkowy – 2 kartony
-8. Napój energetyczny – 8 puszek
+1. Woda niegazowana – 50 butelek
+2. Woda gazowana – 50 butelek
+3. Coca-Cola / Pepsi – 100 butelek
+4. Sprite / 7Up – 100 butelek
+5. Tonik – 100 butelek
+6. Sok pomarańczowy – 10 kartony
+7. Sok jabłkowy – 10 kartony
+8. Napój energetyczny – 30 puszek
 9. Cytryny i limonki – 10 sztuk
 10. Świeża mięta – 2 doniczki
 
 **Przekąski słone**
-1. Chipsy – 4 paczki
-2. Nachosy – 3 paczki
+1. Chipsy – 8 paczki
+2. Nachosy – 6 paczki
 3. Dip salsa – 2 słoiki
 4. Dip serowy – 2 słoiki
-5. Paluszki i precelki – 2 paczki
-6. Krakersy – 2 paczki
-7. Mieszanka orzeszków – 2 paczki
+5. Paluszki i precelki – 4 paczki
+6. Krakersy – 4 paczki
+7. Mieszanka orzeszków – 4 paczki
 8. Pistacje – 1 paczka
-9. Popcorn – 3 paczki
+9. Popcorn – 4 paczki
 10. Kabanosy – 4 opakowania
 
-**Jedzenie i deska przekąsek**
+**Deska przekąsek**
 1. Sery na deskę – 4 opakowania (różne rodzaje)
 2. Wędliny w plastrach – 4 opakowania
 3. Pomidorki koktajlowe – 2 opakowania
