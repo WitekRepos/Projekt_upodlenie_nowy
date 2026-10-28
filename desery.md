@@ -12,8 +12,5 @@ Menu deserów:
 
 -Galaretka owocowa z bitą śmietaną
 -Deser truskawkowy z mascarpone
-
-3. Lody
-
 -Lody waniliowe
 -Lody czekoladowe
