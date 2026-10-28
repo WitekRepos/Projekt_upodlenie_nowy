@@ -309,3 +309,173 @@ Podsmaż cebulę i grzyby, dodaj ryż i chwilę mieszaj.
 Stopniowo dolewaj gorący bulion, mieszając, aż ryż będzie kremowy i miękki.
 
 Dodaj masło i parmezan, a na koniec posyp prażonymi, posiekanymi orzechami laskowymi.
+
+
+
+Przepisy na desery
+
+-Sernik tradycyjny
+
+Składniki:
+
+1 kg twarogu sernikowego
+
+5 jajek
+
+200 g cukru
+
+100 g masła
+
+1 łyżka mąki ziemniaczanej
+
+1 łyżeczka ekstraktu waniliowego
+
+Przygotowanie:
+
+Utrzyj masło z cukrem, a następnie dodawaj kolejno jajka i twaróg.
+
+Dodaj mąkę ziemniaczaną oraz wanilię i wymieszaj.
+
+Przełóż masę do formy i piecz w 170°C przez około 60 minut. Pozostaw do wystudzenia.
+
+-Szarlotka z kruszonką
+
+Składniki:
+
+300 g mąki pszennej
+
+200 g masła
+
+150 g cukru
+
+1 jajko
+
+1 kg jabłek
+
+1 łyżeczka cynamonu
+
+Przygotowanie:
+
+Zagnieć mąkę, masło, jajko i część cukru na kruche ciasto.
+
+Jabłka obierz, pokrój i wymieszaj z cynamonem.
+
+Wyłóż ciasto do formy, dodaj jabłka i pokrusz na wierzch pozostałe ciasto. Piecz w 180°C przez około 45–50 minut.
+
+-Makowiec zawijany
+
+Składniki:
+
+500 g mąki pszennej
+
+25 g świeżych drożdży
+
+200 ml mleka
+
+80 g cukru
+
+80 g masła
+
+1 jajko
+
+400 g gotowej masy makowej
+
+Przygotowanie:
+
+Przygotuj ciasto drożdżowe z mąki, drożdży, mleka, cukru, masła i jajka. Odstaw do wyrośnięcia.
+
+Rozwałkuj ciasto, rozsmaruj masę makową i zwiń w roladę.
+
+Piecz w 180°C przez około 35–45 minut, aż ciasto się zarumieni.
+
+-Karpatka z kremem budyniowym
+
+Składniki:
+
+250 ml wody
+
+125 g masła
+
+150 g mąki pszennej
+
+4 jajka
+
+500 ml mleka
+
+2 opakowania budyniu waniliowego
+
+100 g cukru
+
+Przygotowanie:
+
+Zagotuj wodę z masłem, dodaj mąkę i energicznie mieszaj. Po ostudzeniu dodawaj kolejno jajka.
+
+Podziel ciasto na dwie części i piecz każdą w 200°C przez około 20–25 minut.
+
+Ugotuj gęsty budyń z mleka, proszku budyniowego i cukru. Po ostudzeniu przełóż nim wystudzone blaty ciasta.
+
+-Kremówka
+
+Składniki:
+
+2 arkusze ciasta francuskiego
+
+750 ml mleka
+
+2 opakowania budyniu waniliowego
+
+120 g cukru
+
+150 g masła
+
+cukier puder do posypania
+
+Przygotowanie:
+
+Upiecz arkusze ciasta francuskiego zgodnie z instrukcją na opakowaniu i wystudź.
+
+Ugotuj gęsty budyń z mleka, cukru i proszku budyniowego. Po ostudzeniu utrzyj z miękkim masłem.
+
+Rozsmaruj krem na jednym arkuszu, przykryj drugim i posyp cukrem pudrem. Schłodź przed pokrojeniem.
+
+-Galaretka owocowa z bitą śmietaną
+
+Składniki:
+
+2 opakowania galaretki owocowej
+
+woda zgodnie z instrukcją na opakowaniu
+
+250 ml śmietanki kremówki 30–36%
+
+opcjonalnie świeże owoce
+
+Przygotowanie:
+
+Rozpuść galaretkę w gorącej wodzie zgodnie z instrukcją producenta.
+
+Przelej do pucharków i pozostaw w lodówce do stężenia.
+
+Ubij schłodzoną śmietankę i udekoruj nią galaretkę przed podaniem. Możesz dodać owoce.
+
+-Deser truskawkowy z mascarpone
+
+Składniki:
+
+250 g serka mascarpone
+
+200 ml śmietanki kremówki 30–36%
+
+300 g truskawek
+
+2–3 łyżki cukru pudru
+
+opcjonalnie biszkopty
+
+Przygotowanie:
+
+Ubij śmietankę z cukrem pudrem, a następnie delikatnie połącz z mascarpone.
+
+Pokrój truskawki na kawałki.
+
+Układaj w pucharkach warstwy kremu, truskawek i opcjonalnie pokruszonych biszkoptów. Schłodź przed podaniem.
