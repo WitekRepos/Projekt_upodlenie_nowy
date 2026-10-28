@@ -58,3 +58,23 @@
 58. Bartosz Zmarzlik
 59. Jakub Błaszczykowski
 60. Wojciech Szczęsny
+61. Cristiano Ronaldo
+62. Lionel Messi
+63. Kylian Mbappé
+64. Neymar Jr.
+65. Erling Haaland
+66. Lewis Hamilton
+67. Max Verstappen
+68. Fernando Alonso
+69. Eminem
+70. Snoop Dogg
+71. Post Malone
+72. The Weeknd
+73. Drake
+74. Dua Lipa
+75. Billie Eilish
+76. Taylor Swift
+77. MrBeast
+78. Keanu Reeves
+79. Ryan Reynolds
+80. Dwayne Johnson
