@@ -18,3 +18,183 @@
 18. Classic - Hej Czy Ty Wiesz
 19. Power Play - Co Ma Przeminąć To Przeminie
 20. Piękni i Młodzi - Kocham Się W Tobie
+21. Boys - Jesteś Szalona
+22. Akcent - Przez Twe Oczy Zielone
+23. Weekend - Ona Tańczy Dla Mnie
+24. MIG - Wymarzona
+25. Classic - Jolka Jolka
+26. Power Play - Lubisz To Lubisz
+27. After Party - Ona Lubi Pomarańcze
+28. Piękni i Młodzi - Niewiara
+29. Defis - Niespotykany Kolor
+30. Czadoman - Ruda Tańczy Jak Szalona
+31. Extazy - Buzi To Za Mało
+32. Bayer Full - Majteczki w Kropeczki
+33. Milano - O Tobie Kochana
+34. Boys - Wolność
+35. Akcent - Pszczółka Maja
+36. Weekend - Za Miłość Mą
+37. MIG - Nie Ma Mocnych Na Mariolę
+38. Classic - Hej Czy Ty Wiesz
+39. Power Play - Co Ma Przeminąć To Przeminie
+40. Piękni i Młodzi - Kocham Się W Tobie
+41. Defis - Jeden Gest
+42. Defis - Róże
+43. Defis - Czy Ty Weźmiesz Ze Mną Ślub
+44. After Party - Bananowa Agnieszka
+45. After Party - Nie Daj Życiu Się
+46. After Party - Tylko Ona Jedyna
+47. MIG - Miód Malina
+48. MIG - Lalunia
+49. MIG - Co Ty Mi Dasz
+50. Boys - Najpiękniejsza Dziewczyno
+51. Boys - Łobuz
+52. Boys - Kochana Uwierz Mi
+53. Akcent - Kochana Wierzę W Miłość
+54. Akcent - Życie To Są Chwile
+55. Akcent - Dziewczyna Z Klubu Disco
+56. Classic - To Nie Przyjaźń Tylko Miłość
+57. Classic - Ja Dla Ciebie Ty Dla Mnie
+58. Classic - Wielka Miłość
+59. Power Play - Zawsze Coś
+60. Power Play - Skok W Bok
+61. Power Play - Kochaj Mnie
+62. Czadoman - Chodź Na Kolana
+63. Czadoman - Hey Hey Bawmy Się
+64. Czadoman - Jedziemy Z Blondi
+65. Piękni i Młodzi - Ona Jest Taka Cudowna
+66. Piękni i Młodzi - Tak Już Bez Ciebie
+67. Piękni i Młodzi - Chciałabym Spać Z Tobą
+68. Extazy - Noc Taka Czarna
+69. Extazy - Po Uszy Zakochany
+70. Extazy - Chciałem Być
+71. Bayer Full - Blondyneczka
+72. Bayer Full - Wszyscy Polacy
+73. Bayer Full - Moja Muzyka
+74. Milano - Bara Bara
+75. Milano - Jasnowłosa
+76. Milano - O Tobie Kochana
+77. Top One - Biały Miś
+78. Top One - Ciao Italia
+79. Top One - Santa Maria
+80. Shazza - Bierz Co Chcesz
+81. Shazza - Baiao Bongo
+82. Shazza - Egipskie Noce
+83. Fanatic - Czarownica
+84. Fanatic - Otwórz Serce
+85. Fanatic - Rzeki Przepłynąłem
+86. Zenon Martyniuk - Przez Twe Oczy Zielone
+87. Zenon Martyniuk - Życie To Są Chwile
+88. Playboys - Lejde
+89. Playboys - Nasza Noc
+90. Playboys - Fajna Jest Ta Dziewczyna
+91. Łobuzy - Ona Czuje We Mnie Piniądz
+92. Łobuzy - Zbuntowany Anioł
+93. Łobuzy - Dla Ciebie Kupie Se Spodnie
+94. Long & Junior - Kolorowa Sukienka
+95. Long & Junior - Tańczyć Chcę
+96. Long & Junior - Bądź Moją Królową
+97. Masters - Żono Moja
+98. Masters - Bella
+99. Masters - Schody Do Nieba
+100. Mejk - Tańczę Z Nim Do Rana
+101. Mejk - Dla Ciebie
+102. Mejk - Bo To Miłość
+103. Exaited - Dziś Ci To Powiem
+104. Exaited - Nie Unikaj
+105. Exaited - Kocham Cię
+106. Cliver - Chodź Kochanie
+107. Cliver - Moje Ciało Oszalało
+108. Cliver - Zaufaj Mi
+109. Jorrgus - Twój Jeden Szept
+110. Jorrgus - Niebezpieczna
+111. Jorrgus - Oddam Ci Serce
+112. Soleo - Słodko Słodka
+113. Soleo - Zaczepka
+114. Soleo - Kochaj Mnie
+115. Gesek - Na Koncercie W Dyskotece
+116. Gesek - Najpiękniejsza
+117. Gesek - Życie To Impreza
+118. Skalar US - Szukam Ciebie
+119. Skalar US - W Tę Noc
+120. Skalar US - To Była Miłość
+121. Doda - Nie Daj Się
+122. Doda - Dżaga
+123. Enej - Radio Hello
+124. Enej - Skrzydlate Ręce
+125. Bracia Figo Fagot - Bożenka
+126. Bracia Figo Fagot - Pisarz Miłości
+127. Bracia Figo Fagot - Wóda Zryje Banie
+128. Lady Pank - Mniej Niż Zero
+129. Lady Pank - Kryzysowa Narzeczona
+130. Lady Pank - Zawsze Tam Gdzie Ty
+131. Perfect - Autobiografia
+132. Perfect - Nie Płacz Ewka
+133. Perfect - Chcemy Być Sobą
+134. Budka Suflera - Takie Tango
+135. Budka Suflera - Bal Wszystkich Świętych
+136. Wilki - Baśka
+137. Wilki - Urke
+138. Ich Troje - A Wszystko To Bo Ciebie Kocham
+139. Ich Troje - Powiedz
+140. Ich Troje - Zawsze Z Tobą Chciałbym Być
+141. Kombii - Pokolenie
+142. Kombii - Nasze Randez Vous
+143. Feel - Jak Anioła Głos
+144. Feel - A Gdy Jest Już Ciemno
+145. Video - Idę Na Plażę
+146. Video - Bella
+147. Pectus - Jeden Moment
+148. Liber - Wszystkiego Na Raz
+149. Mrozu - Jak Nie My To Kto
+150. Mrozu - Złoto
+151. Dawid Podsiadło - Małomiasteczkowy
+152. Dawid Podsiadło - Nie Ma Fal
+153. Sanah - Szampan
+154. Sanah - Melodia
+155. Kizo - Disney
+156. Kizo - Taxi
+157. Kizo - Posejdon
+158. Bletka - B012
+159. Tribbs - Ostatni Raz Zatańczysz Ze Mną
+160. Tribbs - Krakowski Spleen
+161. Sobel - Wyglądasz Tak Pięknie
+162. Sobel - Impreza
+163. Tymek - Język Ciała
+164. Tymek - Rainman
+165. Smolasty - Duże Oczy
+166. Smolasty - Herbata Z Imbirem
+167. Oskar Cyms - Daj Mi Znać
+168. Oskar Cyms - Niech Mówią
+169. Margaret - Tańcz Głupia
+170. Cleo - Łowcy Gwiazd
+171. Cleo - Za Krokiem Krok
+172. Donatan & Cleo - My Słowianie
+173. Kayah - Testosteron
+174. Kayah & Bregović - Prawy Do Lewego
+175. Golec uOrkiestra - Ściernisko
+176. Golec uOrkiestra - Crazy Is My Life
+177. Brathanki - Czerwone Korale
+178. Brathanki - Gdzie Ten Który Powie Mi
+179. Łzy - Agnieszka
+180. Łzy - Oczy Szeroko Zamknięte
+181. Myslovitz - Długość Dźwięku Samotności
+182. Myslovitz - Peggy Brown
+183. T.Love - Warszawa
+184. T.Love - King
+185. Happysad - Zanim Pójdę
+186. Happysad - Mów Mi Dobrze
+187. Kult - Gdy Nie Ma Dzieci
+188. Kult - Baranek
+189. Ira - Ona Jest Ze Snu
+190. Ira - Nadzieja
+191. Myslovitz - Chciałbym Umrzeć Z Miłości
+192. Strachy Na Lachy - Dzień Dobry Kocham Cię
+193. Pidżama Porno - Twoja Generacja
+194. Big Cyc - Makumba
+195. Big Cyc - Rudy Się Żeni
+196. Nocny Kochanek - Minerał Fiutta
+197. Nocny Kochanek - Andżeju
+198. Nocny Kochanek - Dziewczyna Z Kebabem
+199. Poparzeni Kawą Trzy - Byłaś Dla Mnie Wszystkim
+200. Poparzeni Kawą Trzy - Okrutna Zła I Podła
