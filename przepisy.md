@@ -4,7 +4,7 @@ Księga przepisów — dania główne
 
 -Klasyczny burger wołowy z serem cheddar
 
-Składniki: bułka burgerowa, wołowina, cheddar, sałata, pomidor, cebula, sos do burgerów.
+Składniki: 4 bułki burgerowe, 600 g wołowiny mielonej, 4 plastry cheddara (ok. 80 g), 4 liście sałaty, 1 duży pomidor, 1 mała cebula, 4 łyżki sosu do burgerów (ok. 60 g).
 
 Przygotowanie:
 
@@ -16,7 +16,7 @@ Podpiecz bułkę, dodaj warzywa, mięso i sos.
 
 -Żeberka wieprzowe w sosie BBQ z pieczonymi ziemniakami
 
-Składniki: żeberka, sos BBQ, czosnek, papryka słodka, ziemniaki, oliwa, sól i pieprz.
+Składniki: 1,2 kg żeberek, 150 ml sosu BBQ, 3 ząbki czosnku, 1 łyżeczka papryki słodkiej, 800 g ziemniaków, 2 łyżki oliwy (ok. 30 ml), sól i pieprz do smaku.
 
 Przygotowanie:
 
@@ -28,7 +28,7 @@ Ziemniaki pokrój, dopraw i piecz w 200°C do zarumienienia.
 
 -Grillowany kurczak w sosie miodowo-musztardowym
 
-Składniki: pierś z kurczaka, miód, musztarda, oliwa, czosnek, sól i pieprz.
+Składniki: 700 g piersi z kurczaka, 2 łyżki miodu (ok. 40 g), 3 łyżki musztardy (ok. 45 g), 2 łyżki oliwy (ok. 30 ml), 2 ząbki czosnku, sól i pieprz do smaku.
 
 Przygotowanie:
 
@@ -40,7 +40,7 @@ Grilluj lub smaż do pełnego upieczenia mięsa.
 
 -Polędwica wołowa w sosie pieprzowym
 
-Składniki: polędwica wołowa, śmietanka, zielony pieprz, masło, bulion, sól.
+Składniki: 700–800 g polędwicy wołowej, 200 ml śmietanki 30%, 1 łyżka zielonego pieprzu (ok. 10 g), 30 g masła, 150 ml bulionu wołowego, sól do smaku.
 
 Przygotowanie:
 
@@ -52,7 +52,7 @@ Gotuj sos do zgęstnienia i podawaj z mięsem.
 
 -Burger z szarpaną wieprzowiną i surówką coleslaw
 
-Składniki: łopatka wieprzowa, bułki, sos BBQ, kapusta, marchew, majonez, ocet.
+Składniki: 900 g łopatki wieprzowej, 4 bułki burgerowe, 150 ml sosu BBQ, 300 g białej kapusty, 1 duża marchewka (ok. 100 g), 4 łyżki majonezu (ok. 60 g), 1 łyżka octu (ok. 15 ml), 1 łyżeczka papryki słodkiej, sól i pieprz do smaku.
 
 Przygotowanie:
 
@@ -66,7 +66,7 @@ Kapustę i marchew wymieszaj z majonezem oraz odrobiną octu. Podawaj w bułce z
 
 -Lasagne bolońska
 
-Składniki: płaty lasagne, mięso mielone, pomidory, cebula, czosnek, mleko, masło, mąka, ser.
+Składniki: 250 g płatów lasagne, 500 g mięsa mielonego, 700 g pomidorów krojonych lub passaty, 1 duża cebula, 2 ząbki czosnku, 500 ml mleka, 40 g masła, 40 g mąki, 250 g mozzarelli lub sera do zapiekania, 2 łyżki oliwy (ok. 30 ml), sól, pieprz i oregano do smaku.
 
 Przygotowanie:
 
@@ -78,7 +78,7 @@ Układaj warstwy płatów, sosu mięsnego i beszamelu. Posyp serem i piecz w 180
 
 -Spaghetti carbonara
 
-Składniki: spaghetti, boczek, jajka, parmezan lub pecorino, czarny pieprz.
+Składniki: 400 g spaghetti, 200 g boczku, 4 żółtka, 100 g parmezanu lub pecorino, czarny pieprz do smaku, sól do gotowania makaronu.
 
 Przygotowanie:
 
@@ -90,7 +90,7 @@ Połącz gorący makaron z boczkiem, zdejmij patelnię z ognia i dodaj masę jaj
 
 -Makaron z kurczakiem w sosie Alfredo
 
-Składniki: makaron, pierś z kurczaka, śmietanka, masło, parmezan, czosnek.
+Składniki: 400 g makaronu, 500 g piersi z kurczaka, 250 ml śmietanki 30%, 30 g masła, 80 g parmezanu, 2 ząbki czosnku, 1 łyżka oliwy (ok. 15 ml), sól i pieprz do smaku.
 
 Przygotowanie:
 
@@ -102,7 +102,7 @@ Dodaj parmezan, kurczaka i makaron. Wymieszaj i podawaj.
 
 -Pizza cztery sery
 
-Składniki: ciasto na pizzę, mozzarella, gorgonzola, parmezan, ser kozi lub ementaler, sos pomidorowy.
+Składniki: 2 porcje ciasta na pizzę (łącznie ok. 500 g), 200 g mozzarelli, 100 g gorgonzoli, 80 g parmezanu, 100 g sera koziego lub ementalera, 150 ml sosu pomidorowego.
 
 Przygotowanie:
 
@@ -112,9 +112,9 @@ Rozłóż cztery rodzaje sera.
 
 Piecz w maksymalnie nagrzanym piekarniku, najlepiej w 240–250°C, przez około 8–12 minut.
 
--Gnocchi w sosie gorgonzola 
+-Gnocchi w sosie gorgonzola
 
-Składniki: gnocchi, gorgonzola, śmietanka, orzechy włoskie, sól i pieprz.
+Składniki: 800 g gnocchi, 200 g gorgonzoli, 200 ml śmietanki 30%, 80 g orzechów włoskich, sól i pieprz do smaku.
 
 Przygotowanie:
 
@@ -128,7 +128,7 @@ Dodaj gnocchi, wymieszaj, dodaj orzechy.
 
 -Kurczak tikka masala z ryżem basmati
 
-Składniki: kurczak, jogurt naturalny, pasta curry lub przyprawa garam masala, pomidory, śmietanka, ryż basmati.
+Składniki: 700 g piersi z kurczaka, 150 g jogurtu naturalnego, 2 łyżki pasty curry lub 2 łyżki przyprawy garam masala (ok. 20 g), 400 g pomidorów krojonych, 200 ml śmietanki 30%, 300 g ryżu basmati, 1 łyżka oleju (ok. 15 ml), sól do smaku.
 
 Przygotowanie:
 
@@ -140,7 +140,7 @@ Dodaj śmietankę, a następnie podawaj z ugotowanym ryżem.
 
 -Tacos z wołowiną i guacamole
 
-Składniki: tortille kukurydziane, wołowina mielona, cebula, przyprawa meksykańska, awokado, limonka, pomidor.
+Składniki: 8 małych tortilli kukurydzianych, 500 g wołowiny mielonej, 1 średnia cebula, 2 łyżeczki przyprawy meksykańskiej (ok. 10 g), 2 awokado, 1 limonka, 1 pomidor, 1 łyżka oleju (ok. 15 ml), sól do smaku.
 
 Przygotowanie:
 
@@ -150,9 +150,9 @@ Rozgnieć awokado, dodaj sok z limonki i pokrojonego pomidora.
 
 Podgrzej tortille i napełnij mięsem oraz guacamole.
 
--Pad Thai z kurczakiem i orzeszkami ziemnymi 
+-Pad Thai z kurczakiem i orzeszkami ziemnymi
 
-Składniki: makaron ryżowy, kurczak, jajko, kiełki fasoli mung, sos rybny, limonka, orzeszki ziemne.
+Składniki: 300 g makaronu ryżowego, 400 g piersi z kurczaka, 2 jajka, 100 g kiełków fasoli mung, 3 łyżki sosu rybnego (ok. 45 ml), 1 limonka, 80 g orzeszków ziemnych, 2 łyżki oleju (ok. 30 ml).
 
 Przygotowanie:
 
@@ -164,7 +164,7 @@ Dodaj kiełki, wymieszaj i podawaj z limonką oraz posiekanymi orzeszkami ziemny
 
 -Japoński kurczak katsu z ryżem
 
-Składniki: pierś z kurczaka, mąka, jajko, panierka panko, ryż, sos tonkatsu.
+Składniki: 700 g piersi z kurczaka, 100 g mąki, 2 jajka, 150 g panierki panko, 300 g ryżu, 150 ml oleju do smażenia, 100 ml sosu tonkatsu, sól i pieprz do smaku.
 
 Przygotowanie:
 
@@ -174,9 +174,9 @@ Usmaż na oleju na złoty kolor, aż mięso będzie w pełni upieczone.
 
 Pokrój w paski i podawaj z ryżem oraz sosem.
 
--Tajskie zielone curry z orzechami nerkowca 
+-Tajskie zielone curry z orzechami nerkowca
 
-Składniki: kurczak lub tofu, pasta zielonego curry, mleko kokosowe, papryka, cukinia, orzechy nerkowca, ryż.
+Składniki: 500 g piersi z kurczaka lub tofu, 2 łyżki pasty zielonego curry (ok. 30 g), 400 ml mleka kokosowego, 1 papryka, 1 średnia cukinia, 100 g orzechów nerkowca, 300 g ryżu, 1 łyżka oleju (ok. 15 ml).
 
 Przygotowanie:
 
@@ -190,7 +190,7 @@ Podawaj z ryżem i prażonymi orzechami nerkowca.
 
 -Grillowany łosoś z masłem cytrynowym
 
-Składniki: filet z łososia, masło, cytryna, czosnek, koperek, sól i pieprz.
+Składniki: 4 filety z łososia po 180–200 g (łącznie ok. 750 g), 60 g masła, 1 cytryna, 2 ząbki czosnku, 2 łyżki posiekanego koperku (ok. 10 g), sól i pieprz do smaku.
 
 Przygotowanie:
 
@@ -202,7 +202,7 @@ Rozpuść masło z czosnkiem i koperkiem, a następnie polej nim rybę.
 
 -Krewetki w sosie czosnkowym z ryżem
 
-Składniki: krewetki, czosnek, masło, oliwa, cytryna, ryż, natka pietruszki.
+Składniki: 600 g obranych krewetek, 300 g ryżu, 5 ząbków czosnku, 50 g masła, 2 łyżki oliwy (ok. 30 ml), 1 cytryna, 2 łyżki posiekanej natki pietruszki (ok. 10 g), sól i pieprz do smaku.
 
 Przygotowanie:
 
@@ -212,9 +212,9 @@ Na maśle i oliwie krótko podsmaż czosnek, a następnie dodaj krewetki.
 
 Smaż do momentu, gdy będą gotowe, skrop cytryną i posyp natką pietruszki.
 
--Łosoś w panierce pistacjowej 
+-Łosoś w panierce pistacjowej
 
-Składniki: filet z łososia, obrane pistacje, bułka tarta, jajko, musztarda, sól i pieprz.
+Składniki: 4 filety z łososia po 180–200 g (łącznie ok. 750 g), 120 g obranych pistacji, 60 g bułki tartej, 1 jajko, 2 łyżki musztardy (ok. 30 g), sól i pieprz do smaku.
 
 Przygotowanie:
 
@@ -226,7 +226,7 @@ Piecz w 190°C przez około 12–18 minut, zależnie od grubości filetu.
 
 -Paella z owocami morza
 
-Składniki: ryż do paelli, krewetki, małże, kalmary, bulion, pomidory, papryka, szafran.
+Składniki: 350 g ryżu do paelli, 300 g krewetek, 300 g małży, 200 g kalmarów, 900 ml bulionu, 400 g pomidorów krojonych, 1 papryka, szczypta szafranu (ok. 0,1 g), 2 łyżki oliwy (ok. 30 ml), sól i pieprz do smaku.
 
 Przygotowanie:
 
@@ -238,7 +238,7 @@ Dodaj owoce morza i gotuj do momentu, aż ryż będzie miękki, a owoce morza od
 
 -Dorsz pieczony w panierce ziołowej
 
-Składniki: filet z dorsza, bułka tarta, natka pietruszki, czosnek, oliwa, cytryna.
+Składniki: 700 g filetu z dorsza, 100 g bułki tartej, 2 łyżki posiekanej natki pietruszki (ok. 10 g), 2 ząbki czosnku, 3 łyżki oliwy (ok. 45 ml), 1 cytryna, sól i pieprz do smaku.
 
 Przygotowanie:
 
@@ -250,9 +250,9 @@ Piecz w 190°C przez około 15–20 minut, aż ryba będzie gotowa.
 
 5. Dania wegetariańskie i wegańskie
 
--Ravioli ze szpinakiem i ricottą z pesto orzechowym 
+-Ravioli ze szpinakiem i ricottą z pesto orzechowym
 
-Składniki: ravioli ze szpinakiem i ricottą, bazylia, orzechy włoskie, oliwa, czosnek, parmezan.
+Składniki: 600 g ravioli ze szpinakiem i ricottą, 30 g świeżej bazylii, 100 g orzechów włoskich, 60 ml oliwy, 2 ząbki czosnku, 50 g parmezanu.
 
 Przygotowanie:
 
@@ -262,9 +262,9 @@ Zblenduj bazylię, orzechy, oliwę, czosnek i parmezan.
 
 Wymieszaj ravioli z pesto i podawaj od razu.
 
--Curry z ciecierzycą i orzechami nerkowca 
+-Curry z ciecierzycą i orzechami nerkowca
 
-Składniki: ciecierzyca, mleko kokosowe, pomidory, cebula, czosnek, curry, orzechy nerkowca.
+Składniki: 2 puszki ciecierzycy po ok. 400 g (ok. 480 g po odsączeniu), 400 ml mleka kokosowego, 400 g pomidorów krojonych, 1 duża cebula, 3 ząbki czosnku, 1 łyżka przyprawy curry (ok. 10 g), 100 g orzechów nerkowca, 300 g ryżu, 2 łyżki oleju (ok. 30 ml).
 
 Przygotowanie:
 
@@ -274,9 +274,9 @@ Dodaj ciecierzycę, pomidory i mleko kokosowe.
 
 Gotuj około 15–20 minut i podawaj z ryżem, posypane orzechami nerkowca.
 
--Pieczony kalafior z sosem tahini i pistacjami 
+-Pieczony kalafior z sosem tahini i pistacjami
 
-Składniki: kalafior, oliwa, papryka słodka, tahini, cytryna, woda, pistacje.
+Składniki: 2 średnie kalafiory (łącznie ok. 1,2 kg), 3 łyżki oliwy (ok. 45 ml), 1 łyżeczka papryki słodkiej, 100 g tahini, sok z 1 cytryny, 50–100 ml wody, 100 g pistacji, sól i pieprz do smaku.
 
 Przygotowanie:
 
@@ -286,9 +286,9 @@ Piecz w 200°C przez około 25–35 minut, aż się zarumieni.
 
 Wymieszaj tahini z sokiem z cytryny i odrobiną wody. Polej kalafior i posyp pistacjami.
 
--Wegański burger z sosem orzechowym 
+-Wegański burger z sosem orzechowym
 
-Składniki: bułka wegańska, kotlet z fasoli, masło orzechowe, sos sojowy, limonka, sałata, pomidor.
+Składniki: 4 bułki wegańskie, 4 kotlety z fasoli (łącznie ok. 500–600 g), 100 g masła orzechowego, 2 łyżki sosu sojowego (ok. 30 ml), sok z 1 limonki, 4 liście sałaty, 1 pomidor, 50–100 ml wody do sosu.
 
 Przygotowanie:
 
@@ -298,9 +298,9 @@ Wymieszaj masło orzechowe z sosem sojowym, limonką i odrobiną wody.
 
 Złóż burgera z warzywami, kotletem i sosem.
 
--Risotto grzybowe z prażonymi orzechami laskowymi 
+-Risotto grzybowe z prażonymi orzechami laskowymi
 
-Składniki: ryż arborio, grzyby, cebula, bulion warzywny, masło, parmezan, orzechy laskowe.
+Składniki: 350 g ryżu arborio, 500 g grzybów, 1 duża cebula, 1 l bulionu warzywnego, 40 g masła, 60 g parmezanu, 80 g orzechów laskowych, 2 łyżki oliwy (ok. 30 ml), sól i pieprz do smaku.
 
 Przygotowanie:
 
