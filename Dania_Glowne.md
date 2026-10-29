@@ -39,3 +39,7 @@ Menu dań głównych:
 -Pieczony kalafior z sosem tahini i pistacjami !!ORZECHY!!
 -Wegański burger z sosem orzechowym !!ORZECHY!!
 -Risotto grzybowe z prażonymi orzechami laskowymi !!ORZECHY!!
+
+6. Zupy
+
+-Rosół z makaronem
