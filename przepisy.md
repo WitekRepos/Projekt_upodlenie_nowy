@@ -310,6 +310,48 @@ Stopniowo dolewaj gorący bulion, mieszając, aż ryż będzie kremowy i miękki
 
 Dodaj masło i parmezan, a na koniec posyp prażonymi, posiekanymi orzechami laskowymi.
 
+-Rosół
+
+Składniki:
+
+1 kg kurczaka z kością lub porcji rosołowej
+
+3 marchewki
+
+1 pietruszka
+
+1/4 selera
+
+1 por
+
+1 cebula
+
+2 L wody
+
+200 g makaronu jajecznego
+
+2 liście laurowe
+
+4 ziarna ziela angielskiego 
+
+5 ziaren pieprzu czarnego
+
+sól do smaku
+
+natka pietruszki do podania
+
+Przygotowanie:
+
+Włóż mięso do garnka, zalej zimną wodą i powoli doprowadź do wrzenia. Zbierz szumowiny.
+
+Dodaj obrane warzywa, opaloną cebulę, liście laurowe, ziele angielskie i pieprz.
+
+Gotuj na małym ogniu przez około 2–3 godziny, nie dopuszczając do intensywnego wrzenia.
+
+Dopraw solą do smaku. Ugotuj makaron osobno zgodnie z instrukcją na opakowaniu.
+
+Podawaj gorący rosół z makaronem i posiekaną natką pietruszki.
+
 
 
 Przepisy na desery
