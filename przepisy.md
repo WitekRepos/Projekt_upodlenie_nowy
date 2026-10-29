@@ -479,3 +479,29 @@ Ubij śmietankę z cukrem pudrem, a następnie delikatnie połącz z mascarpone.
 Pokrój truskawki na kawałki.
 
 Układaj w pucharkach warstwy kremu, truskawek i opcjonalnie pokruszonych biszkoptów. Schłodź przed podaniem.
+
+-Brownie
+
+Składniki:
+
+200 g gorzkiej czekolady
+
+150 g masła
+
+200 g cukru
+
+3 jajka
+
+100 g mąki pszennej
+
+30 g kakao
+
+Przygotowanie:
+
+Rozpuść czekoladę z masłem i odstaw do lekkiego przestudzenia.
+
+Dodaj cukier i jajka, a następnie wymieszaj. Wsyp mąkę i kakao, po czym delikatnie połącz składniki.
+
+Przelej ciasto do formy wyłożonej papierem do pieczenia.
+
+Piecz w 180°C przez około 20–25 minut, aby środek pozostał lekko wilgotny.
