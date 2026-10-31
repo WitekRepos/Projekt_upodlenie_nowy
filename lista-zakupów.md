@@ -71,14 +71,13 @@
 9. Ręcznik papierowy – 2 rolki
 10. Duże worki na śmieci – 1 rolka
 
-# II. Składniki na dania główne, zupę i desery (z przepisów)
+# II. Składniki na dania główne i desery (z przepisów)
 
 ### Mięso i drób
 * **Boczek**: 200 g
 * **Łopatka wieprzowa**: 900 g
 * **Mięso mielone (do lasagne)**: 500 g
-* **Mięso drobiowe na rosół (ćwiartki / porcja rosołowa / korpus)**: 1,0 kg 
-* **Pierś z kurczaka**: 3,5 kg 
+* **Pierś z kurczaka**: 3,5 kg
 * **Polędwica wołowa**: 700–800 g
 * **Wołowina mielona**: 1,1 kg
 * **Żeberka wieprzowe**: 1,2 kg
@@ -107,21 +106,18 @@
 ### Warzywa, owoce i grzyby
 * **Awokado**: 2 szt.
 * **Biała kapusta**: 300 g
-* **Cebula**: 6 szt.
+* **Cebula**: 5 szt.
 * **Cukinia**: 1 średnia
 * **Czosnek**: 21 ząbków (ok. 2–3 główki)
 * **Grzyby**: 500 g
 * **Jabłka**: 1 kg
 * **Kalafior**: 2 średnie (łącznie ok. 1,2 kg)
 * **Kiełki fasoli mung**: 100 g
-* **Korzeń pietruszki**: 2 szt. (ok. 150 g)
-* **Marchewka**: ok. 400 g / ok. 4–5 szt. 
+* **Marchewka**: 1 duża (ok. 100 g)
 * **Papryka**: 2 szt.
 * **Pomidory (świeże)**: 3 szt.
 * **Pomidory krojone lub passata**: 1900 g
-* **Por**: 1 szt. 
 * **Sałata**: 8 liści
-* **Seler korzeniowy**: 1/2 szt. (ok. 150 g) 
 * **Truskawki**: 300 g
 * **Ziemniaki**: 800 g
 * **Świeże owoce (do galaretki)**: opcjonalnie
@@ -130,7 +126,7 @@
 * **Cytryny**: 4 szt.
 * **Koperek posiekany**: 2 łyżki (ok. 10 g)
 * **Limonki**: 3 szt.
-* **Natka pietruszki**: 2 pęczki (ok. 50 g)
+* **Natka pietruszki posiekana**: 4 łyżki (ok. 20 g)
 * **Świeża bazylia**: 30 g
 
 ### Produkty zbożowe, pieczywo i mąki
@@ -141,7 +137,6 @@
 * **Ciasto na pizzę**: 2 porcje (ok. 500 g)
 * **Gnocchi**: 800 g
 * **Makaron (penne / fettuccine)**: 400 g
-* **Makaron do rosołu (cienkie nitki / jajeczny)**: 250 g 
 * **Makaron ryżowy**: 300 g
 * **Mąka pszenna**: 1090 g
 * **Mąka ziemniaczana**: 1 łyżka
@@ -197,14 +192,12 @@
 * **Drożdże świeże**: 25 g
 * **Ekstrakt waniliowy**: 1 łyżeczka
 * **Galaretka owocowa**: 2 opakowania
-* **Liście laurowe**: 3–4 szt.
 * **Masa makowa (gotowa)**: 400 g
 * **Oregano**: do smaku
 * **Papryka słodka (mielona)**: 3 łyżeczki
-* **Pieprz czarny**: mielony do smaku + ziarnisty do wywaru
+* **Pieprz czarny (mielony)**: do smaku
 * **Pieprz zielony**: 1 łyżka (ok. 10 g)
 * **Przyprawa curry**: 1 łyżka (ok. 10 g)
 * **Przyprawa meksykańska**: 2 łyżeczki (ok. 10 g)
 * **Sól**: do smaku
 * **Szafran**: szczypta (ok. 0,1 g)
-* **Ziele angielskie**: 5–6 ziaren
