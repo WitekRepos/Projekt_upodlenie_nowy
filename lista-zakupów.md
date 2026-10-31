@@ -77,7 +77,7 @@
 * **Boczek**: 200 g
 * **Łopatka wieprzowa**: 900 g
 * **Mięso mielone (do lasagne)**: 500 g
-* **Mięso drobiowe na rosół (ćwiartki / porcja rosołowa / korpus)**: 1,0 kg 
+* **Mięso drobiowe na rosół (ćwiartki / porcja rosołowa / korpus)**: 1,0 kg
 * **Pierś z kurczaka**: 3,5 kg 
 * **Polędwica wołowa**: 700–800 g
 * **Wołowina mielona**: 1,1 kg
@@ -93,10 +93,10 @@
 ### Nabiał, sery i jaja
 * **Cheddar**: 4 plastry (ok. 80 g)
 * **Gorgonzola**: 300 g
-* **Jaja**: 16 całych jaj + 4 żółtka
+* **Jaja**: 19 całych jaj + 4 żółtka 
 * **Jogurt naturalny**: 150 g
 * **Mascarpone**: 250 g
-* **Masło**: 805 g
+* **Masło**: 1005 g (ok. 1 kg) 
 * **Mleko**: 1950 ml
 * **Mozzarella (lub ser do zapiekania)**: 450 g
 * **Parmezan (lub pecorino)**: 370 g
@@ -104,10 +104,13 @@
 * **Śmietanka 30% / kremówka 30–36%**: 1300 ml
 * **Twaróg sernikowy**: 1 kg
 
+### Lody i desery mrożone
+* **Lody waniliowe**: 1 opakowanie (1 l) 
+
 ### Warzywa, owoce i grzyby
 * **Awokado**: 2 szt.
 * **Biała kapusta**: 300 g
-* **Cebula**: 6 szt.
+* **Cebula**: 6 szt. *(w tym 1 szt. do opalenia do rosołu)*
 * **Cukinia**: 1 średnia
 * **Czosnek**: 21 ząbków (ok. 2–3 główki)
 * **Grzyby**: 500 g
@@ -115,13 +118,13 @@
 * **Kalafior**: 2 średnie (łącznie ok. 1,2 kg)
 * **Kiełki fasoli mung**: 100 g
 * **Korzeń pietruszki**: 2 szt. (ok. 150 g)
-* **Marchewka**: ok. 400 g / ok. 4–5 szt. 
+* **Marchewka**: ok. 400 g / ok. 4–5 szt.
 * **Papryka**: 2 szt.
 * **Pomidory (świeże)**: 3 szt.
 * **Pomidory krojone lub passata**: 1900 g
-* **Por**: 1 szt. 
+* **Por**: 1 szt.
 * **Sałata**: 8 liści
-* **Seler korzeniowy**: 1/2 szt. (ok. 150 g) 
+* **Seler korzeniowy**: 1/2 szt. (ok. 150 g)
 * **Truskawki**: 300 g
 * **Ziemniaki**: 800 g
 * **Świeże owoce (do galaretki)**: opcjonalnie
@@ -141,9 +144,9 @@
 * **Ciasto na pizzę**: 2 porcje (ok. 500 g)
 * **Gnocchi**: 800 g
 * **Makaron (penne / fettuccine)**: 400 g
-* **Makaron do rosołu (cienkie nitki / jajeczny)**: 250 g 
+* **Makaron do rosołu (cienkie nitki / jajeczny)**: 250 g
 * **Makaron ryżowy**: 300 g
-* **Mąka pszenna**: 1090 g
+* **Mąka pszenna**: 1190 g 
 * **Mąka ziemniaczana**: 1 łyżka
 * **Panierka panko**: 150 g
 * **Płaty lasagne**: 250 g
@@ -155,7 +158,7 @@
 * **Spaghetti**: 400 g
 * **Tortille kukurydziane**: 8 małych sztuk
 
-### Orzechy, nasiona i pasty
+### Orzechy, nasiona i pasty 
 * **Masło orzechowe**: 100 g
 * **Orzechy laskowe**: 80 g
 * **Orzechy nerkowca**: 200 g
@@ -191,12 +194,14 @@
 
 ### Przyprawy i dodatki cukiernicze
 * **Budyń waniliowy**: 4 opakowania
-* **Cukier**: 650 g
+* **Cukier**: 800 g 
 * **Cukier puder**: 2–3 łyżki + do posypania
+* **Czekolada gorzka (min. 60–70%)**: 200 g 
 * **Cynamon**: 1 łyżeczka
 * **Drożdże świeże**: 25 g
 * **Ekstrakt waniliowy**: 1 łyżeczka
 * **Galaretka owocowa**: 2 opakowania
+* **Kakao ciemne**: 2–3 łyżki (ok. 30 g) 
 * **Liście laurowe**: 3–4 szt.
 * **Masa makowa (gotowa)**: 400 g
 * **Oregano**: do smaku
